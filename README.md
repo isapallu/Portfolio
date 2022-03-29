@@ -1,8 +1,8 @@
 # Portfolio
 ## Sobre mim 
-• Me chamo Isadora, tenho 15 anos, e estou cursando Desenvolvimento de Sistemas. 
+• Me chamo Isadora, tenho 15 anos e estou cursando Desenvolvimento de Sistemas. 
 
-• Smpre pratiquei esportes mas tenho como destaque:
+• Sempre pratiquei esportes mas tenho como destaque:
 
   Judô: aprendi muito nos oito anos que treinei e competi, adquiri uma disciplina e respeito que levarei para o resto da vida; 
   
