@@ -1,5 +1,9 @@
 # Portfolio
-## Sobre mim 
+
+## O que você vai encontrar nesse portfólio?
+Nesse portfólio é possível encontrar informações referentes ao conteúdo de Desenvolvimento de Sistemas aprendido em 2022
+
+### Sobre mim 
 • Me chamo Isadora, tenho 15 anos e estou cursando Desenvolvimento de Sistemas. 
 
 • Sempre pratiquei esportes mas tenho como destaque:
