@@ -4,17 +4,9 @@
 Nesse portfólio é possível encontrar informações referentes ao conteúdo de Desenvolvimento de Sistemas aprendido em 2022
 
 ### Sobre mim 
-• Me chamo Isadora, tenho 15 anos e estou cursando Desenvolvimento de Sistemas. 
+• Me chamo Isadora, tenho 16 anos e estou cursando Desenvolvimento de Sistemas. 
 
-• Sempre pratiquei esportes mas tenho como destaque:
-
-  Judô: aprendi muito nos oito anos que treinei e competi, adquiri uma disciplina e respeito que levarei para o resto da vida; 
-  
-  Hipismo: me ensinou a conviver em equilíbrio e harmonia com a natureza, aprendendo a respeitar os animais e formar conexões com eles;
-  
-  Natação: muito importante para a minha história, vem das minhas raízes como nativa de uma praia tradicinal com familia de surfistas e pescadores;
-  
-  Muay thai: adquiri confiança e autodefesa;
+• Sempre pratiquei esportes diversos como natação, judô, muay thai, jiu jitsu, hipismo e surfe.
   
 • Sou fluente em inglês e faço uso constante do idioma na parte administrativa da Pousada em que vivo.
 
