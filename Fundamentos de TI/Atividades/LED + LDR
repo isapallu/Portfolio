@@ -24,3 +24,6 @@ void loop() {
 
 
 }
+
+//Descrição;
+//Esse sistema funciona como uma lâmpada que acente na medida que vai ficando escuro, quando o sensor atinge um certo grau de escuridão a luz acende e quando vai clareando ela apaga.
