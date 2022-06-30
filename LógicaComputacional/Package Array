@@ -1,0 +1,35 @@
+Código dia 26/05
+
+package array26;
+
+import javax.swing.JOptionPane;
+
+public class Array26 {
+
+    public static void main(String[] args) {
+       // String[] nomes = new String[3];
+       // nomes[0] = "Javackson";
+       // nomes[1] = "javana";
+       // nomes[2] = "MC Rosinha";
+       //String[] palavras = {"Netbeanséfoda","digaNAOaUbuntu!","vivaJS","javaévida"};
+       //JOptionPane.showMessageDialog(null, nomes[2]+palavras[1]); 
+       //String[][] matrix = new String[3][3];
+       
+       int tamanho = Integer.parseInt(JOptionPane.showInputDialog("Digite o tamanho"));
+       String[] vishnu = new String[tamanho];
+       int pos = 0;
+       while (pos < tamanho){
+           vishnu[pos] = JOptionPane.showInputDialog("Digite a palavra da posição "+pos);
+           pos ++;
+       }
+       pos = 0;
+       String resultado = "";
+       while (pos < tamanho){
+          resultado+= vishnu[pos]+" ";
+          pos ++;
+       }
+       JOptionPane.showMessageDialog(null, resultado);
+    }
+    
+}
+
