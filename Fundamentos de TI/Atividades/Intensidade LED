@@ -1,0 +1,21 @@
+void setup() {
+    pinMode(11, OUTPUT);
+    Serial.begin(115200);
+}
+int count = 0;
+void loop() {
+
+    analogWrite(11, count);
+    delay(500);
+    count++;
+    Serial.println(count);
+    if(count>25) {
+        count = 0;
+     }
+
+
+}
+
+//Descrição;
+//Nessa atividade foi feito um sistema que faz com que o LED vá criando intensidade até chegar no seu máximo de intensidade, 
+//ao chegar no máximo ele tem um delay e apaga, reiniciando a operação e fazendo tudo de novo.
