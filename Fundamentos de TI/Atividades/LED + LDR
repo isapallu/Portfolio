@@ -1,0 +1,26 @@
+void setup() {
+  pinMode(9, OUTPUT);
+  Serial.begin(115200);
+
+}
+int count = 0;
+void loop() {
+    int var = analogRead(A0);
+    Serial.println(var);
+    delay (500);
+    if (var>100){
+      analogWrite (9, count);
+      delay (100);
+      count++;
+      Serial.println(count);
+      if (count>100) {
+        count = 0;
+      }
+} else{
+      analogWrite(9, 0);
+  }
+
+
+
+
+}
