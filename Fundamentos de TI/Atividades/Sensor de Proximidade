@@ -124,4 +124,5 @@ digitalWrite(TRIGGER, LOW);
 }
 
 //Descrição
-//Esse sistema funciona como um sensor de proximidade, quando um objeto chega perto do sensor a uma determinada distância ele emite um som, quando se afasta ele para de emiti-lo.
+//Esse sistema funciona como um sensor de proximidade, quando um objeto chega perto do sensor a uma determinada distância ele emite um som, 
+//quando se afasta ele para de emiti-lo.
