@@ -1,0 +1,28 @@
+void setup() {
+    pinMode(12, OUTPUT);
+    pinMode(8, OUTPUT);
+    pinMode(4, OUTPUT);
+}
+
+void loop() {
+    //verde
+    digitalWrite(12, HIGH);
+    delay(3000);
+    digitalWrite(12, LOW);
+    delay(500);
+
+    //amarelo
+    digitalWrite(8, HIGH);
+    delay(500);
+    digitalWrite(8, LOW);
+    delay(500);
+
+    //vermelho
+    digitalWrite(4, HIGH);
+    delay(3000);
+    digitalWrite(4, LOW);
+    delay(500);
+}
+
+//Descrição:
+//Esse sistema funciona como uma sinaleira na vida real, as cores vão alternando entre verde, amarelo e vermelho. O vermelho fica 3s, o verde e o amarelo ficam 05s.
