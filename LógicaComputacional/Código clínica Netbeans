@@ -1,0 +1,26 @@
+package alberto;
+
+import javax.swing.JOptionPane;
+
+public class Alberto {
+
+   
+    public static void main(String[] args) {
+        String s = JOptionPane.showInputDialog(null, "Olá! Você entrou em contato com a Clínica Médica São Luiz. \n Você gostaria de agendar uma consulta?");// \n: pular linha "enter"
+        s = JOptionPane.showInputDialog("Insira seu nome completo:");
+        JOptionPane.showMessageDialog(null,"Obrigada "+ s+", já estamos apurando! ");// s+ é o que foi inserido no input do string
+        String resposta1 = JOptionPane.showInputDialog("Você gostaria de consultar na Clínia Médica São Luíz de Florianópolis-SC? \n Digite S para sim ou N para não");
+        if(resposta1.equals("S")){
+            JOptionPane.showMessageDialog(null, "Agradecemos o seu contato! \n Sua avaliação já está agendada para dia 14/04/2022 às 16:00 horas.");
+        }
+        else{
+            JOptionPane.showMessageDialog(null, "Acesse nosso site www.clinicamedicasaoluis.com.br e confira outras localidades disponíveis. \n Agradecemos seu contato!");// null é como se fosse literalmente, só uma mensagem que vai ser exibida, saída 
+        }
+        
+                
+        
+        
+    }
+    
+}
+
