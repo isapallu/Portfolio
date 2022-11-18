@@ -1,3 +1,5 @@
+## Chaves Estrangeiras
+
 CREATE table Vendedor(	
   Nome VARCHAR(50)not null,
   CPF VARCHAR(14)not null,
